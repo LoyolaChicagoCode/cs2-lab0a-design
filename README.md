@@ -2,7 +2,7 @@
 
 # Functional requirements
 
-Recurring rainfall calculation: Design a program called Rainfall that reads a list of numbers from the standard input (console) representing daily rainfall amounts as entered by a user. Produce the average of the non-negative values in the list up to end of file. There may be negative numbers in the list.
+*Recurring rainfall calculation:* Design a program called `Rainfall` that reads a list of numbers from the standard input (console) representing daily rainfall amounts as entered by a user. Produce the average of the non-negative values in the list up to end of file. There may be negative numbers in the list.
 
 # Nonfunctional requirements
 
