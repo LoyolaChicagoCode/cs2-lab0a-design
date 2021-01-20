@@ -17,7 +17,4 @@
 
 # Submission
 
-- State the name of your teammate.
 - Submit your actual work inline or paste the link to an external document (e.g., Google doc).
-- Each teammate should make a separate (duplicate) submission.
-
