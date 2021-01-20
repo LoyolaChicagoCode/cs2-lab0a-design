@@ -1,4 +1,4 @@
-# Pair project
+# Individual project
 
 # Functional requirements
 
