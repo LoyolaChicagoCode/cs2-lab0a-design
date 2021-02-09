@@ -1,6 +1,6 @@
 # Loyola COMP 271 Design Activity 0
 
-## Individual project
+## Individual assignment
 
 # Functional requirements
 
@@ -19,4 +19,4 @@
 
 # Submission
 
-- Submit your actual work inline or paste the link to an external document (e.g., Google doc).
+- Individually submit your actual work inline or paste the link to an external document (e.g., Google doc).
