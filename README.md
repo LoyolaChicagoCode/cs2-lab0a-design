@@ -1,6 +1,6 @@
 # Loyola COMP 271 Design Activity 0
 
-## Individual assignment
+## Individual activity
 
 # Functional requirements
 
