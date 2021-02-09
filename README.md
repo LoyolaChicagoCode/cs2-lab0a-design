@@ -1,4 +1,6 @@
-# Individual project
+# Loyola COMP 271 Design Activity 0
+
+## Individual project
 
 # Functional requirements
 
