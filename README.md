@@ -20,3 +20,8 @@
 # Submission
 
 - Individually submit your actual work inline or paste the link to an external document (e.g., Google doc).
+
+# Grading (total 3 points)
+
+- 2 pseudocode
+- 1 reflection
